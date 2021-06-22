@@ -1,0 +1,2 @@
+rootProject.name = "DiceRoll_Images"
+include ':app'
